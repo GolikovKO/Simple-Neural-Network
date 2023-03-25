@@ -125,8 +125,8 @@ for e in range(epochs):
 # test the neural network with our own images
 
 # load image data from png files into an array
-print("loading ... my_own_images/2828_my_own_image.png")
-img_array = imageio.imread('numbers/2828_my_own_1.png', as_gray=True)
+print("loading ... my_own_images/0.png")
+img_array = imageio.imread('numbers/paint/0.png', as_gray=True)
 
 # reshape from 28x28 to list of 784 values, invert values
 img_data = 255.0 - img_array.reshape(784)

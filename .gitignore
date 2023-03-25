@@ -162,7 +162,7 @@ dmypy.json
 *.webp
 
 # Portable Network Graphics
-*.png
+#*.png
 
 # Animated Portable Network Graphics
 *.apng
@@ -203,3 +203,6 @@ dmypy.json
 *.h5
 *.pth
 *.csv
+
+#Archives
+*.zip
