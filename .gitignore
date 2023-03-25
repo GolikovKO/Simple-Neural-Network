@@ -132,7 +132,7 @@ dmypy.json
 .idea/
 
 # JPEG
-*.jpg
+#*.jpg
 *.jpeg
 *.jpe
 *.jif
