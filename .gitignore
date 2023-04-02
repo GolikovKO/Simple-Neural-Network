@@ -132,7 +132,7 @@ dmypy.json
 .idea/
 
 # JPEG
-#*.jpg
+*.jpg
 *.jpeg
 *.jpe
 *.jif
@@ -162,7 +162,7 @@ dmypy.json
 *.webp
 
 # Portable Network Graphics
-#*.png
+*.png
 
 # Animated Portable Network Graphics
 *.apng
